@@ -33,7 +33,5 @@ public class no2480 {
 
                 // b가 c랑 같은 경우
 
-            }
-        }
     }
 }
